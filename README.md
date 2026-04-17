@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TheDarkSoulster&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDarkSoulster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheDarkSoulster&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="github grade" />
 </div>
 
 ###
