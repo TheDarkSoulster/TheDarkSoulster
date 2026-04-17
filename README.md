@@ -1,16 +1,25 @@
 <h2 align="left">Hi 👋! My name is Saket Dhulipala and I'm a coder and graphic designer!</h2>
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TheDarkSoulster&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDarkSoulster&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheDarkSoulster&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="github grade" />
+
+  <!-- Top: 3 widgets -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=TheDarkSoulster&theme=dracula&hide_border=true&border_radius=10&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDarkSoulster&layout=compact&langs_count=6&theme=dracula&hide_border=true&title_color=ff79c6&text_color=ffffff&border_radius=10&size_weight=0.5&count_weight=0.5" height="160"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheDarkSoulster&theme=dracula&hide_border=true&border_radius=10&show_icons=true&include_all_commits=true&title_color=ff79c6&icon_color=ff79c6&text_color=ffffff" height="160"/>
+  </p>
+
+  <!-- Bottom: Trophy -->
+  <p>
+    <img src="https://trophy.ryglcloud.net/?username=TheDarkSoulster&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+  </p>
+
 </div>
 
 ###
 
-<img align="right" height="170" src="https://i.pinimg.com/originals/0b/5a/42/0b5a42f1eb216d045ee7955385db6f61.gif"  />
+<img align="right" height="170" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 
 ###
 
